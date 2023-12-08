@@ -25,7 +25,6 @@ public class TCPserver extends Thread{
         }
     }
     public static void main(String[] args) throws IOException{
-        TCPserver s=new TCPserver(1503);
-        s.run();
+        
     }
 }
