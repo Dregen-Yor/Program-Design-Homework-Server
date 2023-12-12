@@ -4,6 +4,11 @@ import java.net.*;
 import java.io.*;
 public class TCPserver extends Thread{
     private ServerSocket serverSocket;
+    private InputStream inFromserver;
+    private OutputStream outToserver;
+    private DataInputStream in;
+    private DataOutputStream out;
+    private SQLiteserver sql;
     public Socket socket;
     public TCPserver(int port)throws IOException{
         serverSocket=new  ServerSocket(port);
@@ -23,6 +28,34 @@ public class TCPserver extends Thread{
                 e.printStackTrace();
             }
         }
+        sql=new SQLiteserver();
+        action();
+    }
+    public void action(){
+        try{
+            inFromserver=socket.getInputStream();
+            in=new DataInputStream(inFromserver);
+            outToserver=socket.getOutputStream();
+            out=new DataOutputStream(outToserver);
+            while(true){
+                String str=in.readUTF();
+                // System.out.println(str);
+                if(str.equals("logRequest")){
+                    String username=in.readUTF();
+                    String password=in.readUTF();
+                    String result=sql.solvelogin(username, password);
+                    out.writeUTF(result);
+                }else if(str.equals("")){
+
+                }
+            }
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        
+    }
+    public TCPserver(){
+        // run();
     }
     public static void main(String[] args) throws IOException{
         
