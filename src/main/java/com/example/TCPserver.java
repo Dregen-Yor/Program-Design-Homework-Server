@@ -10,6 +10,8 @@ public class TCPserver extends Thread{
     private DataOutputStream out;
     private SQLiteserver sql;
     public Socket socket;
+    private ObjectOutputStream writer;
+    private ObjectInputStream reader;
     public TCPserver(int port)throws IOException{
         serverSocket=new  ServerSocket(port);
         serverSocket.setSoTimeout(10000);
@@ -37,6 +39,8 @@ public class TCPserver extends Thread{
             in=new DataInputStream(inFromserver);
             outToserver=socket.getOutputStream();
             out=new DataOutputStream(outToserver);
+            writer=new ObjectOutputStream(out);
+            reader=new ObjectInputStream(inFromserver);
             while(true){
                 String str=in.readUTF();
                 // System.out.println(str);
@@ -45,7 +49,9 @@ public class TCPserver extends Thread{
                     String password=in.readUTF();
                     String result=sql.solvelogin(username, password);
                     out.writeUTF(result);
-                }else if(str.equals("")){
+                }else if(str.equals("getBookInfo")){
+                    
+                }else if(str.equals("commitInfo")){
 
                 }
             }
@@ -53,6 +59,18 @@ public class TCPserver extends Thread{
             e.printStackTrace();
         }
         
+    }
+    public void sendObject(Object message)throws IOException{
+        writer.writeObject(message);
+    }
+    public void sendMessage(String message)throws IOException{
+        out.writeUTF(message);
+    }
+    public Object getObject()throws IOException,ClassNotFoundException{
+        return reader.readObject();
+    }
+    public String getMessage()throws IOException{
+        return in.readUTF();
     }
     public TCPserver(){
         // run();
