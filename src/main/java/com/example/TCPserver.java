@@ -2,6 +2,7 @@ package com.example;
 
 import java.net.*;
 import java.io.*;
+import java.sql.*;
 public class TCPserver extends Thread{
     private ServerSocket serverSocket;
     private InputStream inFromserver;
@@ -50,7 +51,18 @@ public class TCPserver extends Thread{
                     String result=sql.solvelogin(username, password);
                     out.writeUTF(result);
                 }else if(str.equals("getBookInfo")){
-                    
+                    ResultSet rs=sql.SendBookInfo();
+                    while(rs.next()){
+                        String name=rs.getString("Bookname");
+                        String address=rs.getString("Bookaddress");
+                        String author=rs.getString("Bookauthor");
+                        int id=rs.getInt("Bookid");
+                        int count=rs.getInt("Bookcount");
+                        Book book=new Book(name, id, author, address, count);
+                        System.out.println(book);
+                        sendObject(book);
+                    }
+                    sendObject(null);
                 }else if(str.equals("commitInfo")){
 
                 }

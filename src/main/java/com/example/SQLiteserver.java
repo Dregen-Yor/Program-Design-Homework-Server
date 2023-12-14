@@ -17,6 +17,10 @@ public class SQLiteserver {
         }
         return "false"; 
     }
+    public ResultSet SendBookInfo()throws SQLException{
+        ResultSet rs= stmt.executeQuery("SELECT * FROM book;");
+        return rs;
+    }
     void run() {
         try {
             Class.forName("org.sqlite.JDBC");
