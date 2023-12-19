@@ -21,6 +21,18 @@ public class SQLiteserver {
         ResultSet rs= stmt.executeQuery("SELECT * FROM book;");
         return rs;
     }
+    public void addBook(Book book){
+        String updata="INSERT INTO Book (Bookname,Bookid,Bookauthor,Bookaddress,Bookcount) VALUES ('"+book.Bookname+"', "+book.Bookid+", '"+book.Bookauthor+"', '"+book.Bookaddress+"', "+book.Bookcount+" );";
+        try{
+            stmt.executeUpdate(updata);
+            stmt.close();
+            c.commit();
+            stmt = c.createStatement();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+        
+    }
     void run() {
         try {
             Class.forName("org.sqlite.JDBC");

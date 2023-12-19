@@ -40,7 +40,7 @@ public class TCPserver extends Thread{
             in=new DataInputStream(inFromserver);
             outToserver=socket.getOutputStream();
             out=new DataOutputStream(outToserver);
-            writer=new ObjectOutputStream(out);
+            writer=new ObjectOutputStream(outToserver);
             reader=new ObjectInputStream(inFromserver);
             while(true){
                 String str=in.readUTF();
@@ -63,8 +63,11 @@ public class TCPserver extends Thread{
                         sendObject(book);
                     }
                     sendObject(null);
-                }else if(str.equals("commitInfo")){
-
+                }else if(str.equals("addBook")){
+                    Book book=(Book)getObject();
+                    sql.addBook(book);
+                }else if(str.equals("serchacrName")){
+                    
                 }
             }
         }catch(Exception e){
