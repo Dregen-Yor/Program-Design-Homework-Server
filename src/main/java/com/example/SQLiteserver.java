@@ -6,6 +6,8 @@ public class SQLiteserver {
     private Statement stmt;
     //返回字符串 "true" 表示登录成功
     public String solvelogin(String username, String password) throws SQLException {
+        stmt.close();
+        stmt = c.createStatement();
         ResultSet rs = stmt.executeQuery("SELECT * FROM user;");
         while(rs.next()){
             String name=rs.getString("username");
@@ -18,6 +20,8 @@ public class SQLiteserver {
         return "false"; 
     }
     public ResultSet SendBookInfo()throws SQLException{
+        stmt.close();
+        stmt = c.createStatement();
         ResultSet rs= stmt.executeQuery("SELECT * FROM book;");
         return rs;
     }

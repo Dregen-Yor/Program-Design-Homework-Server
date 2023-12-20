@@ -67,7 +67,38 @@ public class TCPserver extends Thread{
                     Book book=(Book)getObject();
                     sql.addBook(book);
                 }else if(str.equals("serchacrName")){
-                    
+                    ResultSet rs=sql.SendBookInfo();
+                    String Name=getMessage();
+                    while(rs.next()){
+                        String name=rs.getString("Bookname");
+                        if(name.indexOf(Name)!=-1){
+                            String address=rs.getString("Bookaddress");
+                            String author=rs.getString("Bookauthor");
+                            int id=rs.getInt("Bookid");
+                            int count=rs.getInt("Bookcount");
+                            Book book=new Book(name, id, author, address, count);
+                            System.out.println(book);
+                            sendObject(book);
+                        }
+                    }
+                    sendObject(null);
+                }
+                else if(str.equals("serchacrID")){
+                    ResultSet rs=sql.SendBookInfo();
+                    int ID=Integer.parseInt(getMessage());
+                    while(rs.next()){
+                        int id=rs.getInt("Bookid");
+                        if(id==ID){
+                            String name=rs.getString("Bookname");
+                            String address=rs.getString("Bookaddress");
+                            String author=rs.getString("Bookauthor");
+                            int count=rs.getInt("Bookcount");
+                            Book book=new Book(name, id, author, address, count);
+                            System.out.println(book);
+                            sendObject(book);
+                        }
+                    }
+                    sendObject(null);
                 }
             }
         }catch(Exception e){
