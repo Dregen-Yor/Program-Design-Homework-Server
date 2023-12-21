@@ -7,30 +7,16 @@ public class TCPserver extends Thread{
     private ServerSocket serverSocket;
     private InputStream inFromserver;
     private OutputStream outToserver;
-    private DataInputStream in;
+    private DataInputStream in; 
     private DataOutputStream out;
     private SQLiteserver sql;
     public Socket socket;
     private ObjectOutputStream writer;
     private ObjectInputStream reader;
-    public TCPserver(int port)throws IOException{
-        serverSocket=new  ServerSocket(port);
-        serverSocket.setSoTimeout(10000);
+    public TCPserver(Socket socket)throws IOException{
+        this.socket=socket;
     }
     public void run(){
-        while(true){
-            try{
-                socket=serverSocket.accept();
-                System.out.println("连接成功");
-                break;
-            }
-            catch(SocketTimeoutException e){
-                System.out.println("连接超时");
-            }
-            catch(Exception e){
-                e.printStackTrace();
-            }
-        }
         sql=new SQLiteserver();
         action();
     }
