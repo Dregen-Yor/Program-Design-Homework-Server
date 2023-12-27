@@ -38,6 +38,17 @@ public class SQLiteserver {
         }
         
     }
+    public void deleteBook(int bookid){
+        String updata="DELETE from Book where Bookid="+bookid+" ;";
+        try{
+            stmt.executeUpdate(updata);
+            stmt.close();
+            c.commit();
+            stmt = c.createStatement();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
     void run() {
         try {
             Class.forName("org.sqlite.JDBC");
