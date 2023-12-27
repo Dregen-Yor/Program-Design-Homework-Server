@@ -1,9 +1,10 @@
-package com.example;
+package com.sever.demo;
 
 import java.sql.*;
 public class SQLiteserver {
     private Connection c;
     private Statement stmt;
+    private static SQLiteserver instance=new SQLiteserver();
     //返回字符串 "true" 表示登录成功
     public String solvelogin(String username, String password) throws SQLException {
         stmt.close();
@@ -51,6 +52,9 @@ public class SQLiteserver {
     }
     SQLiteserver(){
         run();
+    }
+    public static SQLiteserver getInstance(){
+        return instance;
     }
     public static void main(String[] args) {
         
