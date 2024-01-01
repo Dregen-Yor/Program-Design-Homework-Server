@@ -290,8 +290,8 @@ public class SQLiteserver {
     void run() {
         try {
             Class.forName("org.sqlite.JDBC");
-            c = DriverManager.getConnection("jdbc:sqlite:data.db");
-            // c = DriverManager.getConnection("jdbc:sqlite:/teach/run/data.db");
+            // c = DriverManager.getConnection("jdbc:sqlite:data.db");
+            c = DriverManager.getConnection("jdbc:sqlite:/teach/run/data.db");
             c.setAutoCommit(false);
             stmt = c.createStatement();
         } catch (Exception e) {

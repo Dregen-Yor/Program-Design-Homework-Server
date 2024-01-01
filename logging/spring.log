@@ -1,5 +1,5 @@
 2024-01-01 === [http-nio-1503-exec-7] === WARN  === o.s.w.s.m.support.DefaultHandlerExceptionResolver === - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.util.ArrayList<com.sever.demo.Base.Book> com.sever.demo.Controller.getAll.getAllBook(java.lang.String) throws java.lang.Exception]
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 29776 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 29776 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -26,7 +26,7 @@
 2024-01-01 === [http-nio-1503-exec-4] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-4] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-4] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 31396 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 31396 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -53,7 +53,7 @@
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 13240 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 13240 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -80,7 +80,7 @@
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 7728 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 7728 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -166,7 +166,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
 	at java.base/java.lang.Thread.run(Thread.java:833)
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 8160 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 8160 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -193,7 +193,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 18968 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 18968 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -221,7 +221,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h13m47s600ms506?s400ns).
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 34688 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 34688 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -248,7 +248,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 34960 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 34960 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -275,8 +275,8 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 11932 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 11932 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -300,7 +300,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
 2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 3.146 seconds (process running for 3.368)
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 13880 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 13880 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -327,8 +327,8 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 36648 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 36648 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -352,7 +352,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
 2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 3.147 seconds (process running for 3.376)
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 9772 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 9772 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -379,8 +379,8 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 12636 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 12636 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -407,8 +407,8 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 33960 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 33960 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -435,7 +435,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 24760 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 24760 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -462,9 +462,9 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-2] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [http-nio-1503-exec-8] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 10320 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-8] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 10320 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -492,7 +492,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m27s370ms195?s600ns).
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 37700 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 37700 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -519,12 +519,12 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 2 ms
-2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-9] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-5] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 30404 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-9] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-5] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 30404 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -553,13 +553,13 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m33s566ms162?s601ns).
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s645ms492?s900ns).
-2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
+2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
 2024-01-01 === [http-nio-1503-exec-3] === WARN  === o.s.w.s.m.support.DefaultHandlerExceptionResolver === - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
 2024-01-01 === [http-nio-1503-exec-5] === WARN  === o.s.w.s.m.support.DefaultHandlerExceptionResolver === - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 33472 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 33472 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -586,11 +586,11 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
+2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m56s8ms387?s100ns).
-2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
+2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m43s829ms305?s200ns).
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 14972 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 14972 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -617,23 +617,23 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
-2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
-2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
-2024-01-01 === [http-nio-1503-exec-9] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
-2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫sgx 123456
-2024-01-01 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
+2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
+2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
+2024-01-01 === [http-nio-1503-exec-9] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
+2024-01-01 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩsgx 123456
+2024-01-01 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m48s976ms855?s400ns).
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m27s270ms601?s).
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m38s716ms123?s900ns).
 2024-01-01 === [HikariPool-1 housekeeper] === WARN  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m18s542ms915?s900ns).
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 37312 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 37312 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -660,11 +660,11 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
 2024-01-01 === [http-nio-1503-exec-6] === WARN  === o.s.w.s.m.support.DefaultHandlerExceptionResolver === - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.util.ArrayList<com.sever.demo.Base.History> com.sever.demo.Controller.getAll.getAllHistory(java.lang.String) throws java.lang.Exception]
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 17628 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 17628 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -691,7 +691,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 30516 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 30516 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -719,7 +719,7 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 0 ms
 2024-01-01 === [http-nio-1503-exec-1] === WARN  === o.s.w.s.m.support.DefaultHandlerExceptionResolver === - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.util.ArrayList<com.sever.demo.Base.History> com.sever.demo.Controller.getAll.getAllHistory(java.lang.String) throws java.lang.Exception]
-2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 27056 (G:\Program-Design-Homework-Server\target\classes started by ÃÏ—°4ª∂”≠ƒ˙ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 27056 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
 2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
 2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -746,7 +746,119 @@ java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because th
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
 2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
-2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - µ«¬º–≈œ¢£∫admin admin123456
+2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 33264 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 12 ms. Found 0 JPA repository interfaces.
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-01 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
+2024-01-01 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 1480 ms
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@3915e7c3
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
+2024-01-01 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-01-01 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
+2024-01-01 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-01 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 3.657 seconds (process running for 3.894)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 7436 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 13 ms. Found 0 JPA repository interfaces.
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-01 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
+2024-01-01 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 1373 ms
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7f2b39a
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
+2024-01-01 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-01-01 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
+2024-01-01 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-01 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 3.45 seconds (process running for 3.682)
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 20764 (G:\Program-Design-Homework-Server\target\classes started by ÔøΩÔøΩ—°4ÔøΩÔøΩ”≠ÔøΩÔøΩ in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 13 ms. Found 0 JPA repository interfaces.
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-01 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
+2024-01-01 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 1281 ms
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@5ac044ef
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
+2024-01-01 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-01-01 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
+2024-01-01 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-01 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 3.527 seconds (process running for 3.762)
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÔøΩÔøΩ¬ºÔøΩÔøΩœ¢ÔøΩÔøΩadmin admin123456
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 16148 (G:\Program-Design-Homework-Server\target\classes started by Â§©ÈÄâ4Ê¨¢ËøéÊÇ® in G:\Program-Design-Homework-Server)
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-01 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
+2024-01-01 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-01 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
+2024-01-01 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 794 ms
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@bfb93cf
+2024-01-01 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
+2024-01-01 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-01 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-01-01 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
+2024-01-01 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-01 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-01 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-01 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-01 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-01-01 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
+2024-01-01 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.111 seconds (process running for 2.428)
+2024-01-01 === [RMI TCP Connection(4)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-01 === [RMI TCP Connection(4)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
+2024-01-01 === [RMI TCP Connection(4)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
+2024-01-01 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - ÁôªÂΩï‰ø°ÊÅØÔºöadmin admin123456
+2024-01-01 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - ÁôªÂΩï‰ø°ÊÅØÔºöadmin admin123456
+2024-01-01 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - ÁôªÂΩï‰ø°ÊÅØÔºöadmin admin123456
+2024-01-01 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-01 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
+2024-01-01 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.
