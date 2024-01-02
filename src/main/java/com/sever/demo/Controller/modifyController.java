@@ -19,13 +19,13 @@ public class modifyController {
         sql.modifyBook(book);
         return "success";
     }
-    @PostMapping("modifyhistory")
+    @PostMapping("/modifyhistory")
     public String modifyHistory(@Valid @RequestBody History history)throws Exception{
         SQLiteserver sql= SQLiteserver.getInstance();
         sql.modifyHistory(history);
         return "success";
     }
-    @PostMapping("modifyType")
+    @PostMapping("/modifyType")
     public String modifyType(@Valid @RequestBody BookType type)throws Exception{
         SQLiteserver sql= SQLiteserver.getInstance();
         sql.modifyType(type);

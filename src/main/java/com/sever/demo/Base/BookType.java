@@ -21,11 +21,11 @@ public class BookType implements Serializable{
     }
 
     public void setname(String name) {
-        name = name;
+        this.name = name;
     }
 
     public void setid(Integer id) {
-        id = id;
+        this.id = id;
     }
 
 }
