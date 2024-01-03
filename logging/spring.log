@@ -1,145 +1,35 @@
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 20964 (G:\Program-Design-Homework-Server\target\classes started by 天选4欢迎您 in G:\Program-Design-Homework-Server)
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
-2024-01-02 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
-2024-01-02 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 920 ms
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@5b7308aa
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
-2024-01-02 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
-2024-01-02 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
-2024-01-02 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
-2024-01-02 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
-2024-01-02 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
-2024-01-02 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2024-01-02 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2024-01-02 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.42 seconds (process running for 2.796)
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 25676 (G:\Program-Design-Homework-Server\target\classes started by 天选4欢迎您 in G:\Program-Design-Homework-Server)
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 10 ms. Found 0 JPA repository interfaces.
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
-2024-01-02 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
-2024-01-02 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 1043 ms
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@6fef75c6
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
-2024-01-02 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
-2024-01-02 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
-2024-01-02 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
-2024-01-02 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
-2024-01-02 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
-2024-01-02 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2024-01-02 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2024-01-02 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.641 seconds (process running for 3.122)
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-02 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 16456 (G:\Program-Design-Homework-Server\target\classes started by 天选4欢迎您 in G:\Program-Design-Homework-Server)
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
-2024-01-02 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
-2024-01-02 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 843 ms
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@42aa1324
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
-2024-01-02 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
-2024-01-02 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
-2024-01-02 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
-2024-01-02 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
-2024-01-02 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
-2024-01-02 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2024-01-02 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2024-01-02 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.288 seconds (process running for 2.61)
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-02 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-8] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 32892 (G:\Program-Design-Homework-Server\target\classes started by 天选4欢迎您 in G:\Program-Design-Homework-Server)
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2024-01-02 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
-2024-01-02 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
-2024-01-02 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
-2024-01-02 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 956 ms
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@25de8898
-2024-01-02 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
-2024-01-02 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
-2024-01-02 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
-2024-01-02 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
-2024-01-02 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
-2024-01-02 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
-2024-01-02 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2024-01-02 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2024-01-02 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
-2024-01-02 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
-2024-01-02 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.541 seconds (process running for 2.874)
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
-2024-01-02 === [RMI TCP Connection(2)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
-2024-01-02 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-6] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-5] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-9] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-10] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
-2024-01-02 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.
+2024-01-03 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Starting MySpringBootApplication using Java 17.0.8 with PID 13644 (G:\Program-Design-Homework-Server\target\classes started by 天选4欢迎您 in G:\Program-Design-Homework-Server)
+2024-01-03 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - No active profile set, falling back to 1 default profile: "default"
+2024-01-03 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-01-03 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-01-03 === [main] === INFO  === o.s.d.r.config.RepositoryConfigurationDelegate === - Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2024-01-03 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat initialized with port 1503 (http)
+2024-01-03 === [main] === INFO  === org.apache.catalina.core.StandardService === - Starting service [Tomcat]
+2024-01-03 === [main] === INFO  === org.apache.catalina.core.StandardEngine === - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-01-03 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring embedded WebApplicationContext
+2024-01-03 === [main] === INFO  === o.s.b.w.s.c.ServletWebServerApplicationContext === - Root WebApplicationContext: initialization completed in 825 ms
+2024-01-03 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Starting...
+2024-01-03 === [main] === INFO  === com.zaxxer.hikari.pool.HikariPool === - HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@7babed9e
+2024-01-03 === [main] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Start completed.
+2024-01-03 === [main] === INFO  === org.hibernate.jpa.internal.util.LogHelper === - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-01-03 === [main] === INFO  === org.hibernate.Version === - HHH000412: Hibernate ORM core version 6.3.1.Final
+2024-01-03 === [main] === INFO  === o.hibernate.cache.internal.RegionFactoryInitiator === - HHH000026: Second-level cache disabled
+2024-01-03 === [main] === INFO  === org.hibernate.annotations.common.Version === - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-01-03 === [main] === INFO  === o.s.o.j.persistenceunit.SpringPersistenceUnitInfo === - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-01-03 === [main] === INFO  === o.h.e.t.jta.platform.internal.JtaPlatformInitiator === - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-01-03 === [main] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-01-03 === [main] === WARN  === o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration === - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-01-03 === [main] === INFO  === o.s.b.actuate.endpoint.web.EndpointLinksResolver === - Exposing 1 endpoint(s) beneath base path '/actuator'
+2024-01-03 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer === - Tomcat started on port 1503 (http) with context path ''
+2024-01-03 === [main] === INFO  === com.sever.demo.MySpringBootApplication === - Started MySpringBootApplication in 2.158 seconds (process running for 2.498)
+2024-01-03 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] === - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-03 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Initializing Servlet 'dispatcherServlet'
+2024-01-03 === [RMI TCP Connection(3)-10.17.210.95] === INFO  === org.springframework.web.servlet.DispatcherServlet === - Completed initialization in 1 ms
+2024-01-03 === [http-nio-1503-exec-1] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
+2024-01-03 === [http-nio-1503-exec-3] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
+2024-01-03 === [http-nio-1503-exec-2] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：sgx 1234
+2024-01-03 === [http-nio-1503-exec-4] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：admin admin123456
+2024-01-03 === [http-nio-1503-exec-7] === INFO  === com.sever.demo.Controller.LoginController === - 登录信息：sgx 123456
+2024-01-03 === [SpringApplicationShutdownHook] === INFO  === o.s.orm.jpa.LocalContainerEntityManagerFactoryBean === - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-01-03 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown initiated...
+2024-01-03 === [SpringApplicationShutdownHook] === INFO  === com.zaxxer.hikari.HikariDataSource === - HikariPool-1 - Shutdown completed.

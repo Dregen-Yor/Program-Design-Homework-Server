@@ -24,6 +24,7 @@ public class UserInfo implements Serializable {
     public UserInfo(String username, String password) {
         this.username = username;
         this.password = password;
+        this.level="user";
     }
 
     public UserInfo(String username, String password,String level,int userId) {
